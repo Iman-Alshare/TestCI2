@@ -14,4 +14,7 @@ public class Main {
     public static int squareX(int x){
         return x * x ;
     }
+    public static int sum(int x){
+        return x + x ;
+    }
 }
